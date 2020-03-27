@@ -2,5 +2,5 @@
 
 ## Индивидуальные планы работы
 
-+ [Бородкин М. С.](borodkin.md)
++ [Бородкин М. С.](https://www.notion.so/0e7379a5300e45b29e21cd91f8860736?v=e86118fd79f24eb2b8a91b7b1e95ab11)
 + [Кузькина Ю. С.](https://www.notion.so/7170a72f933a4527a4524454f7e187d4?v=7f2328be6b7d427ea5e68fb50be88d67)
