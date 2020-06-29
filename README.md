@@ -9,7 +9,7 @@
  
 | Учебная группа | Имя пользователя | ФИО | Репозиторий|
 |---|---|---|---|
-| 171-371 | [@maximborodkin](https://github.com/maximborodkin) | Бородкин Максим Сергеевич | https://github.com/maximborodkin/Polydroid |
+| 171-371 | [@maximborodkin](https://github.com/maximborodkin) | Бородкин Максим Сергеевич | https://github.com/maximborodkin/Polydroid1 |
 | 171-371 | [@d11scord](https://github.com/d11scord) | Кузькина Юлия Сергеевна | https://github.com/d11scord/polydroid-api |
  
 ## Личный вклад участников
