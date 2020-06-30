@@ -1,10 +1,3 @@
-/**
-* Template Name: Flatty
-* Template URL: https://templatemag.com/flatty-bootstrap-app-landing-page-template/
-* Author: TemplateMag.com
-* License: https://templatemag.com/license/
-*/
-
 body {
   background-color: #f2f2f2;
   font-family: 'Lato', sans-serif;
@@ -28,17 +21,39 @@ h1 {
 }
 
 h3 {
-  color: #95a5a6;
-  font-weight: 400;
+  color: #FFF;
+}
+
+.developer-box {
+  text-align: center;
+}
+
+.title-dark {
+  color: #2E2E2E;
+}
+
+.github-link {
+  padding: 1.1em;
+  vertical-align: middle;
+  border-radius: 6pt;
+  background: #159344;
+}
+
+.video {
+  border: solid #8E8E8E 1px;
+  border-radius: 6pt;
+}
+
+.github-link-img {
+  height: 1.5em;
+  vertical-align: middle;
 }
 
 h4 {
-  color: #95a5a6;
+  color: #646C6C;
   font-weight: 400;
   font-size: 20px;
 }
-
-/* Paragraph & Typographic */
 
 p {
   line-height: 28px;
@@ -51,6 +66,11 @@ p {
 }
 
 /* Links */
+
+.list-group {
+  margin-left: 25%;
+  margin-right: 25%;
+}
 
 a {
   color: #3498db;
@@ -119,8 +139,6 @@ i {
   margin: 8px;
   color: #3498db;
 }
-
-/* HeaderWrap */
 
 #headerwrap {
   background-color: #3498db;
